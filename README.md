@@ -8,8 +8,6 @@
 Open the source file and scroll to the function `void login()`.  
 Update the username and password values, then **save and recompile** the program.
 
----
-
 ## 🧾 Project Overview  
 This Inventory Management System is a desktop-based application built using **Java Swing (JFrame)**. It provides a simple and intuitive interface for managing inventory operations such as purchasing items, modifying records, and tracking stock levels.
 
@@ -19,14 +17,10 @@ This Inventory Management System is a desktop-based application built using **Ja
 - **Modify Module**: Update or delete existing inventory records.  
 - **Inventory View**: Display all items currently in stock with relevant details.  
 
----
-
 ## 🧱 Technologies Used  
 - **Java**  
 - **Swing (JFrame)**  
 - **File Handling for Data Storage**
-
----
 
 ## 🖥️ GUI Components  
 The application uses the following JFrame components:  
