@@ -1,9 +1,4 @@
-Absolutely! Here's a polished and professional version of your README file with added descriptions and structure to make it more informative and user-friendly:
-
----
-
 # 📦 Inventory Management System  
-**Project by KAYDEE (ID: 22012889)**  
 
 ## 🔐 Default Login Credentials  
 - **Username**: `user`  
